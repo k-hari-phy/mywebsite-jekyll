@@ -1,27 +1,32 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "K. Hari",
+    "email": "hari.k@iitb.ac.in",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://harik.co.in",
+    "summary": "Currently Post Doc at IIT Bombay, India. Works in General relativity and Quantum theory",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "Dept. of Physics, IIT BOmbay, India",
+      "postalCode": "400076",
+      "city": "Mumbai",
+      "countryCode": "India",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Hari K",
+        "url": "https://scholar.google.com/citations?user=qtzDkKgAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "K. Hari",
+        "url": "https://orcid.org/0000-0001-9012-6464"
+      },
+      {
+        "network": "INSPIRE",
+        "username": "K. Hari",
+        "url": "https://inspirehep.net/authors/1813548?ui-citation-summary=true"
       },
       {
         "network": "GitHub",
@@ -30,32 +35,39 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Post Doc",
+      "institution": "IIT Bombay",
+      "startDate": "2024",
+      "endDate": "Ongoing"
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "IIT Madras",
+      "area": "Ph.D in Physics",
       "studyType": "",
-      "startDate": "",
+      "startDate": "2018",
+      "endDate": "2024",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "NIT Tiruchirappalli",
+      "area": "M.Sc. in Physics",
+      "studyType": "",
+      "startDate": "2016",
       "endDate": "2018",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Christ Collge Irinjalakuda (Calicut University)",
+      "area": "B.Sc. in Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2013",
+      "endDate": "2018",
       "gpa": null,
       "courses": []
     }
